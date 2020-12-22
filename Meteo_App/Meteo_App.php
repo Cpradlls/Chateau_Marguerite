@@ -7,12 +7,6 @@ Author: Pradeilles Chloé
 Version: 1.0
 Author URI: https://alainackerman.go.yj.fr/
 */
-// function meteoapp() {
-//   $info = '<a href="http://api.openweathermap.org/data/2.5/weather?q=Prévenchères,fr&APPID=9d9649b043f57b90f8d892a6e650806b" target="_blank" class="meteoapp">
-//           </a>';
-//   echo $info;
-// }
-
 add_action( 'wp_footer', 'Meteo_App' );
 
 // Register style sheet.

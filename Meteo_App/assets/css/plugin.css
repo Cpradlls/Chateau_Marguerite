@@ -1,1 +1,9 @@
+.Meteo_App {
+    position: absolute;
+    right: 10vw;
+    top: 30vh;
+}
 
+.Meteo_App h2 {
+    color: #d98e4b;
+}
